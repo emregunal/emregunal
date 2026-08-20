@@ -1,7 +1,5 @@
 <div align="center">
 
-# Emre Can Gunal
-
 ### Software Engineer
 
 **Design · Code · AI Workflows**
