@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-**Design · Code · AI Workflows**
+**Code · Design · AI Workflows**
 
 I design and build scalable software solutions end to end —  
 from system architecture and data infrastructure to reliable, production-ready applications.
